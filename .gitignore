@@ -1,0 +1,4 @@
+sorting/*
+!sorting/**/*.cs
+!sorting/**/*.csproj
+!sorting/*.sln
