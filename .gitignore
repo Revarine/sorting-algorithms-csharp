@@ -1,4 +1,3 @@
-sorting/*
-!sorting/**/*.cs
-!sorting/**/*.csproj
-!sorting/*.sln
+/sorting/.idea
+/sorting/*/bin
+/sorting/*/obj
