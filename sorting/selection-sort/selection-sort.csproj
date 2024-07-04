@@ -3,8 +3,13 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>selection_sort</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\array-utility-lib\array-utility-lib.csproj" />
+    </ItemGroup>
 
 </Project>
